@@ -1,0 +1,26 @@
+{
+  "name": "@caption01/logger",
+  "version": "1.0.0",
+  "description": "logger with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caption01/bootcamp-package-logger.git"
+  },
+  "keywords": [
+    "log",
+    "colors"
+  ],
+  "author": "cow-arcade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caption01/bootcamp-package-logger/issues"
+  },
+  "homepage": "https://github.com/caption01/bootcamp-package-logger#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
